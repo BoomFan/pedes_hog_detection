@@ -1,6 +1,6 @@
 # pedes_hog_detection
 
-This repository is to implement pedestrian detection algorithm, namely HOG, in ROS(Robot Operating System)
+This repository is to implement a pedestrian detection algorithm, namely HOG, in ROS(Robot Operating System)
 
 ## Compiling Process
 Pre-install requirement: OpenCV
