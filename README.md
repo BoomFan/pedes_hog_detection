@@ -11,3 +11,12 @@ cd ~/[your catkin workspace]/src
 ```
 
 Step 2, 
+```
+git clone https://github.com/BoomFan/pedes_hog_detection.git
+```
+
+Step 3, 
+```
+cd ~/[your catkin workspace]
+catkin_make
+```
